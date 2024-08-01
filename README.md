@@ -48,9 +48,9 @@
 
 ## Файлы проекта
 
-EmailTest.php: Тест для проверки функциональности отправки email.
-RegistrationTest.php: Тест для проверки регистрации на сайте.
-TelegramBot.php: Класс для отправки сообщений в Telegram.
+- EmailTest.php: Тест для проверки функциональности отправки email.
+- RegistrationTest.php: Тест для проверки регистрации на сайте.
+- TelegramBot.php: Класс для отправки сообщений в Telegram.
 
 ## Описание тестов
 
