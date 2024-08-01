@@ -1,0 +1,6 @@
+/tmp/
+/logs/
+/.idea/
+.DS_Store
+/vendor/
+/.env
